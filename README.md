@@ -1,4 +1,4 @@
-# kupaldownloader
+i# kupaldownloader
 zkteco downloader
 
 implement the ZKTeco downloader tool, we will create a Python script that connects to the ZKTeco device, downloads raw data, saves it as a JSON file, and uploads the data back to the device. 
@@ -16,3 +16,23 @@ Add a GUI interface option for easier use
 supports both GUI and CLI modes, making it more user-friendly
 
 modify setup script to handle the missing modules and dependencies. update the build options to include only the necessary packages and ensure Windows runtime dependencies
+
+Admin panel
+Machine setting
+Location entry
+Ip address entry
+Port no. Entry 
+
+Account settings 
+Data pin entry
+Username entry
+Password entry 
+Admin pin entry
+
+Tab
+Download time entry tab
+(code entry time date, type)
+Import user & fingerprint template
+Code, user, pin 
+Export user & fingerprint template
+Code, user, pin
